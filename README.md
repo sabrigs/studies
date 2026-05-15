@@ -10,7 +10,7 @@ I decided to keep these materials public because every programming journey is di
 
 # Books
 
-- (Grokking Algorithms)[https://www.amazon.com.br/Grokking-Algorithms-illustrated-programmers-curious-ebook/dp/B09781V6F7/?_encoding=UTF8&pd_rd_w=aBQ7h&content-id=amzn1.sym.114e2c84-01f5-48f9-9ca4-14fe60e0e43a&pf_rd_p=114e2c84-01f5-48f9-9ca4-14fe60e0e43a&pf_rd_r=143-5563191-6818913&pd_rd_wg=9C33v&pd_rd_r=22af3143-d2f5-444b-911f-f8f60f2011c0]
+- [Grokking Algorithms](https://www.amazon.com.br/Grokking-Algorithms-illustrated-programmers-curious-ebook/dp/B09781V6F7/?_encoding=UTF8&pd_rd_w=aBQ7h&content-id=amzn1.sym.114e2c84-01f5-48f9-9ca4-14fe60e0e43a&pf_rd_p=114e2c84-01f5-48f9-9ca4-14fe60e0e43a&pf_rd_r=143-5563191-6818913&pd_rd_wg=9C33v&pd_rd_r=22af3143-d2f5-444b-911f-f8f60f2011c0)
 
 ---
 

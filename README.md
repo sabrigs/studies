@@ -15,9 +15,13 @@ I decided to keep these materials public because every programming journey is di
 ---
 
 # Courses
+## General
 - [CS50x](https://cs50.harvard.edu/x/)
-- [Learn Memory Management in C (Boot.dev)](https://www.boot.dev/courses/learn-memory-management-c)
 - [Software Engineering College](https://estacio.br/cursos/graduacao/engenharia-de-software?srsltid=AfmBOoobu7oWiV_SkgLw9-xJxt_MKDETQxDFnynoqoNaNFRoZWq0mhT2)
+## C
+- [Learn Memory Management in C (Boot.dev)](https://www.boot.dev/courses/learn-memory-management-c)
+## HTML5 & CSS3
+- [HTML and CSS (Curso em vídeo)](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
 ## Git
 - [Git By Bit](https://gitbybit.com/)
 - [Learn Git (Boot.dev with ThePrimeagen)](https://www.boot.dev/courses/learn-git)
